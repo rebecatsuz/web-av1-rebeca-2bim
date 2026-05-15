@@ -130,14 +130,6 @@ nav a:hover {
   inset: 0;
 }
 
-.hero main {
-  min-height: 100vh;
-  padding: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
 .video-bg::after {
   content: "";
   position: absolute;
@@ -207,7 +199,6 @@ main {
 }
 
 #sobre {
-  background: #1d1d1d;
   background: linear-gradient(135deg, #1d1d1d, #333333);
   color: white;
   padding: 20px;
@@ -288,7 +279,6 @@ footer {
 }
 
 #contato {
-  background: #00000078;
   background: linear-gradient(135deg, #1d1d1d, #333333);
   color: white;
   padding: 20px;
